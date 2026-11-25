@@ -1,0 +1,9 @@
+2026-11-02 13:36:47,007 - INFO - Processing product: Laptop
+2026-11-02 13:36:47,007 - DEBUG - Checking available stock
+2026-11-02 13:36:47,007 - INFO - Product processed successfully
+2026-11-02 13:36:47,007 - INFO - Total price: 100000
+2026-11-02 13:36:47,007 - INFO - Processing product: Mouse
+2026-11-02 13:36:47,007 - DEBUG - Checking available stock
+2026-11-02 13:36:47,007 - WARNING - Insufficient stock for Mouse
+2026-11-02 13:36:47,007 - INFO - Processing product: Keyboard
+2026-11-02 13:36:47,007 - ERROR - Invalid product price: -100
